@@ -131,7 +131,6 @@ Script akan otomatis:
 
 - VPS (Ubuntu 20.04+) dengan minimal 1GB RAM
 - Domain yang sudah pointing ke IP VPS
-- API key dari provider (KMSP/HidePulsa)
 - Bot token dari [@BotFather](https://t.me/BotFather)
 
 ---
