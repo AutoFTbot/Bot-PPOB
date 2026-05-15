@@ -22,15 +22,19 @@
 
 | Dashboard | Transaksi |
 |:---------:|:---------:|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Transaksi](docs/screenshots/transactions.png) |
+| ![Dashboard](docs/screenshots/dashboard.png) | ![Transaksi](docs/screenshots/transaksi.png) |
 
 | Produk & Markup | Kelola User |
 |:--------------:|:-----------:|
-| ![Produk](docs/screenshots/products.png) | ![Users](docs/screenshots/users.png) |
+| ![Produk](docs/screenshots/produk.png) | ![Users](docs/screenshots/kelolaUser.png) |
 
-| Broadcast | Backup & Restore |
-|:---------:|:----------------:|
-| ![Broadcast](docs/screenshots/broadcast.png) | ![Backup](docs/screenshots/backup.png) |
+| Konfigurasi | Broadcast |
+|:-----------:|:---------:|
+| ![Konfigurasi](docs/screenshots/konfigurasi.png) | ![Broadcast](docs/screenshots/broadcast.png) |
+
+| Backup & Restore |
+|:----------------:|
+| ![Backup](docs/screenshots/backup-restore.png) |
 
 > 💡 Dashboard mendukung **Dark Mode** dan fully responsive (mobile-friendly).
 
