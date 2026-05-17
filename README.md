@@ -76,16 +76,6 @@
 - Activity Logs — semua aktivitas tercatat
 - Broadcast — kirim pesan ke semua user
 - Backup & Restore — backup database otomatis & manual
-
-### Backend API
-- Go (Gin) — performa tinggi, low memory
-- SQLite dengan WAL mode
-- JWT Authentication + Bot Secret
-- In-memory cache (produk, kategori)
-- Rate limiting & security middleware
-- Auto backup database
-- Notifikasi grup dengan sensor data sensitif
-
 ---
 
 ## Real-Time Sync
